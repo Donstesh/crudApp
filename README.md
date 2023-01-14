@@ -1,4 +1,3 @@
-
 Laravel 9 Crud App
 ## How To Run The Project Laravel
 
@@ -9,7 +8,7 @@ Mysql DB
 - **[Mysql Steps].**
 
 1. Mysql -u `username` -p `password`
-2. Crearte Database `dbName`
+2. Create Database `dbName`
 
 - **[Environment].**
 Edit the .env.example and fill in your database infornation
@@ -17,7 +16,7 @@ Edit the .env.example and fill in your database infornation
 
 - **[Migrating the Projects Database].**
 
-1. `php artisan mimgrate`
+1. `php artisan migrate`
 
 - **[Running the Project].**
 
