@@ -21,4 +21,5 @@ Edit the .env.example and fill in your database infornation
 - **[Running the Project].**
 
 1. `php artisan serve`
+2. `127.0.0.1:8000/developer` or `localhost:8000/developer`
 
