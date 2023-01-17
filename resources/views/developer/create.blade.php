@@ -46,6 +46,7 @@
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-12">
+                    <p></p>
                     <div class="form-group">
                         <strong>Developer Stack:</strong>
                         <input type="text" name="stack" class="form-control" placeholder="Developer Stack">
